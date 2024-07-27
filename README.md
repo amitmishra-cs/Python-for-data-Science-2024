@@ -1,3 +1,3 @@
 # PANDAS 
-- PANDAS OF BASIC  
-- 
+
+- used of pandas of data science 
